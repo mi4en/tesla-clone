@@ -43,7 +43,7 @@ const Home = () => {
       />
       <Section
         title='Solars for New Roofs'
-        desc='Solar Roof Costs Less Than a New Roof'
+        desc='Solar Roof Costs Less Than a New Roof Plus Solar Panels'
         bgImg='solar-roof.jpg'
         leftBtnTxt='Order Now'
         rightBtnTxt='Learn More'

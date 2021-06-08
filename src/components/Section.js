@@ -84,9 +84,3 @@ const DownArrow = styled.img`
   overflow-x: hidden;
   animation: animateDown infinite 1.5s;
 `
-
-// Section.defaultProps = {
-//   desc: 'Order Online for Touchless Delivery',
-//   leftBtnTxt: 'Custom Order',
-//   rightBtnTxt: 'Existing Inventory',
-// }
